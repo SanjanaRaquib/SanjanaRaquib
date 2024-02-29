@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SanjanaRaquib
 - 👀 I’m interested in baking 
 - 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on fun projects
+- 📫 How to reach me: sanjana.raquib@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: Apparently sweet breakfasts set us up for a glucose spike throughout the day
 
